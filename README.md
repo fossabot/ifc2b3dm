@@ -1,4 +1,6 @@
 # IFC2B3DM
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc2b3dm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc2b3dm?ref=badge_shield)
+
 
 The converter is designed to ultimately convert an IFC file to B3DM to enable object selection and BIM (Building Information Management) in Cesium.
 
@@ -34,3 +36,7 @@ https://github.com/AnalyticalGraphicsInc/obj2gltf
 
 https://github.com/AnalyticalGraphicsInc/3d-tiles-tools
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc2b3dm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc2b3dm?ref=badge_large)
